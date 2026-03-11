@@ -1,0 +1,51 @@
+OrderID,CustomerID,OrderDate,OrderStatus,PaymentMethod,ShippingAddress,City,State,Country,TotalAmount
+O001,C047,2/2/2024,Delivered,UPI,Address_1,Mumbai,MH,India,7742
+O002,C042,2/3/2024,Shipped,Credit Card,Address_2,Bangalore,KA,India,64109
+O003,C049,2/4/2024,Processing,Cash on Delivery,Address_3,Hyderabad,TS,India,56362
+O004,C018,2/5/2024,Processing,Cash on Delivery,Address_4,Delhi,DL,India,40630
+O005,C014,2/6/2024,Delivered,Credit Card,Address_5,Kolkata,WB,India,4648
+O006,C049,2/7/2024,Shipped,Credit Card,Address_6,Pune,MH,India,4254
+O007,C017,2/8/2024,Shipped,Credit Card,Address_7,Ahmedabad,GJ,India,58561
+O008,C009,2/9/2024,Cancelled,Cash on Delivery,Address_8,Kochi,KL,India,30942
+O009,C042,2/10/2024,Cancelled,Credit Card,Address_9,Jaipur,RJ,India,77165
+O010,C044,2/11/2024,Delivered,UPI,Address_10,Chennai,TN,India,14937
+O011,C001,2/12/2024,Processing,Debit Card,Address_11,Mumbai,MH,India,64312
+O012,C024,2/13/2024,Delivered,Credit Card,Address_12,Bangalore,KA,India,5817
+O013,C028,2/14/2024,Processing,Debit Card,Address_13,Hyderabad,TS,India,46396
+O014,C027,2/15/2024,Delivered,Cash on Delivery,Address_14,Delhi,DL,India,52966
+O015,C019,2/16/2024,Delivered,UPI,Address_15,Kolkata,WB,India,45482
+O016,C034,2/17/2024,Cancelled,Cash on Delivery,Address_16,Pune,MH,India,7441
+O017,C027,2/18/2024,Shipped,UPI,Address_17,Ahmedabad,GJ,India,13408
+O018,C049,2/19/2024,Shipped,Cash on Delivery,Address_18,Kochi,KL,India,6565
+O019,C049,2/20/2024,Processing,Cash on Delivery,Address_19,Jaipur,RJ,India,27819
+O020,C033,2/21/2024,Shipped,Debit Card,Address_20,Chennai,TN,India,28370
+O021,C013,2/22/2024,Processing,Credit Card,Address_21,Mumbai,MH,India,43262
+O022,C046,2/23/2024,Cancelled,UPI,Address_22,Bangalore,KA,India,77103
+O023,C017,2/24/2024,Processing,Cash on Delivery,Address_23,Hyderabad,TS,India,7868
+O024,C021,2/25/2024,Cancelled,Debit Card,Address_24,Delhi,DL,India,29249
+O025,C012,2/26/2024,Processing,Cash on Delivery,Address_25,Kolkata,WB,India,13447
+O026,C025,2/27/2024,Shipped,Credit Card,Address_26,Pune,MH,India,18620
+O027,C022,2/28/2024,Processing,Cash on Delivery,Address_27,Ahmedabad,GJ,India,7394
+O028,C049,2/29/2024,Processing,Credit Card,Address_28,Kochi,KL,India,48893
+O029,C036,3/1/2024,Processing,Debit Card,Address_29,Jaipur,RJ,India,55698
+O030,C001,3/2/2024,Shipped,Credit Card,Address_30,Chennai,TN,India,8295
+O031,C002,3/3/2024,Cancelled,Credit Card,Address_31,Mumbai,MH,India,72390
+O032,C045,3/4/2024,Shipped,Credit Card,Address_32,Bangalore,KA,India,64730
+O033,C013,3/5/2024,Shipped,Credit Card,Address_33,Hyderabad,TS,India,23044
+O034,C042,3/6/2024,Shipped,UPI,Address_34,Delhi,DL,India,8058
+O035,C038,3/7/2024,Delivered,Cash on Delivery,Address_35,Kolkata,WB,India,12925
+O036,C006,3/8/2024,Delivered,UPI,Address_36,Pune,MH,India,58113
+O037,C050,3/9/2024,Delivered,Debit Card,Address_37,Ahmedabad,GJ,India,57484
+O038,C040,3/10/2024,Cancelled,Cash on Delivery,Address_38,Kochi,KL,India,5803
+O039,C050,3/11/2024,Delivered,Credit Card,Address_39,Jaipur,RJ,India,42966
+O040,C041,3/12/2024,Processing,Debit Card,Address_40,Chennai,TN,India,26808
+O041,C049,3/13/2024,Shipped,UPI,Address_41,Mumbai,MH,India,76752
+O042,C012,3/14/2024,Cancelled,Debit Card,Address_42,Bangalore,KA,India,40725
+O043,C001,3/15/2024,Cancelled,Cash on Delivery,Address_43,Hyderabad,TS,India,8778
+O044,C050,3/16/2024,Processing,Cash on Delivery,Address_44,Delhi,DL,India,35687
+O045,C020,3/17/2024,Processing,UPI,Address_45,Kolkata,WB,India,34369
+O046,C019,3/18/2024,Shipped,UPI,Address_46,Pune,MH,India,17066
+O047,C009,3/19/2024,Cancelled,Debit Card,Address_47,Ahmedabad,GJ,India,34869
+O048,C043,3/20/2024,Delivered,Credit Card,Address_48,Kochi,KL,India,10224
+O049,C021,3/21/2024,Shipped,Debit Card,Address_49,Jaipur,RJ,India,10873
+O050,C012,3/22/2024,Shipped,Debit Card,Address_50,Chennai,TN,India,32089

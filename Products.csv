@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,Brand,UnitPrice,CostPrice,StockQuantity,ReorderLevel,Supplier,CreatedDate
+P001,Laptop 14 inch,Electronics,Dell,65000,58000,45,10,TechSupplier,1/5/2024
+P002,Wireless Mouse,Electronics,Logitech,1200,800,150,30,TechSupplier,1/6/2024
+P003,Office Chair,Furniture,Ikea,8500,6000,60,15,FurniCo,1/7/2024
+P004,LED Monitor 24,Electronics,Samsung,14000,11000,75,20,TechSupplier,1/8/2024
+P005,Keyboard Mechanical,Electronics,HP,3500,2500,90,20,TechSupplier,1/9/2024
+P006,Water Bottle,Home,Milton,500,300,200,50,HomeMart,1/10/2024
+P007,Notebook A4,Stationery,Classmate,80,40,500,100,PaperWorld,1/11/2024
+P008,Smartphone,Electronics,OnePlus,30000,25000,55,15,MobileHub,1/12/2024
+P009,Backpack,Accessories,Wildcraft,2200,1500,120,25,BagWorld,1/13/2024
+P010,Desk Lamp,Home,Philips,1800,1200,85,20,HomeMart,1/14/2024
+P011,Printer Ink,Electronics,Canon,2200,1600,70,20,TechSupplier,1/15/2024
+P012,External HDD 1TB,Electronics,Seagate,4500,3500,65,15,TechSupplier,1/16/2024
+P013,Coffee Mug,Home,Borosil,350,200,300,50,HomeMart,1/17/2024
+P014,Pen Pack,Stationery,Reynolds,120,60,400,80,PaperWorld,1/18/2024
+P015,Tablet 10 inch,Electronics,Lenovo,22000,18000,40,10,MobileHub,1/19/2024
+P016,Headphones,Electronics,Boat,2500,1800,110,25,MobileHub,1/20/2024
+P017,Whiteboard,Furniture,Cello,3200,2400,35,10,FurniCo,1/21/2024
+P018,Router,Electronics,TP-Link,2800,2000,95,20,TechSupplier,1/22/2024
+P019,USB Drive 64GB,Electronics,Sandisk,900,600,210,40,TechSupplier,1/23/2024
+P020,Study Table,Furniture,Ikea,12000,9000,25,5,FurniCo,1/24/2024
+P021,Calculator,Stationery,Casio,900,600,130,30,PaperWorld,1/25/2024
+P022,Power Bank,Electronics,MI,1800,1300,140,30,MobileHub,1/26/2024
+P023,Air Cooler,Home,Bajaj,9500,7500,20,5,HomeMart,1/27/2024
+P024,Projector,Electronics,Epson,45000,38000,15,5,TechSupplier,1/28/2024
+P025,Office Desk,Furniture,Ikea,15000,11000,18,5,FurniCo,1/29/2024
+P026,HDMI Cable,Electronics,AmazonBasics,600,350,250,60,TechSupplier,1/30/2024
+P027,Tablet Cover,Accessories,Generic,800,500,180,40,MobileHub,2/1/2024
+P028,Office Sofa,Furniture,UrbanLadder,35000,28000,10,3,FurniCo,2/2/2024
+P029,Graphic Tablet,Electronics,Wacom,18000,15000,22,5,TechSupplier,2/3/2024
+P030,Smart Watch,Electronics,Noise,4500,3000,75,20,MobileHub,2/4/2024
+P031,Gaming Mouse,Electronics,Logitech,2500,1800,90,20,TechSupplier,2/5/2024
+P032,Gaming Keyboard,Electronics,Redragon,4200,3200,65,15,TechSupplier,2/6/2024
+P033,Office Cabinet,Furniture,Godrej,20000,15000,12,5,FurniCo,2/7/2024
+P034,Floor Mat,Home,HomeCentre,1200,800,140,30,HomeMart,2/8/2024
+P035,Mouse Pad,Accessories,Generic,300,150,260,60,MobileHub,2/9/2024
+P036,Laptop Stand,Accessories,Portronics,1500,1000,120,25,MobileHub,2/10/2024
+P037,Speakers,Electronics,JBL,5500,4000,55,15,TechSupplier,2/11/2024
+P038,LED TV 42,Electronics,Sony,45000,38000,18,5,TechSupplier,2/12/2024
+P039,Extension Board,Electronics,Havells,900,600,190,40,TechSupplier,2/13/2024
+P040,Water Filter,Home,Kent,14000,11000,28,8,HomeMart,2/14/2024
+P041,File Folder,Stationery,Kangaro,60,30,500,100,PaperWorld,2/15/2024
+P042,Sticky Notes,Stationery,PostIt,120,60,450,90,PaperWorld,2/16/2024
+P043,Desk Organizer,Home,Cello,700,400,170,30,HomeMart,2/17/2024
+P044,Camera DSLR,Electronics,Canon,65000,55000,12,4,TechSupplier,2/18/2024
+P045,Tripod Stand,Accessories,Digitek,2500,1800,65,15,MobileHub,2/19/2024
+P046,Microphone,Electronics,BlueYeti,9000,7500,35,10,TechSupplier,2/20/2024
+P047,Notebook Stand,Accessories,Generic,900,600,180,40,MobileHub,2/21/2024
+P048,LED Bulb,Home,Philips,250,120,600,100,HomeMart,2/22/2024
+P049,Paper Ream,Stationery,JKPaper,350,250,300,60,PaperWorld,2/23/2024
+P050,Office Clock,Home,Ajanta,850,500,140,30,HomeMart,2/24/2024
